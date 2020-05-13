@@ -1,4 +1,13 @@
 # DiabetesPrediction
-Given values of different features this algorithms aims to predict whether a person is suffering from diabetes or not.
+
 Features are:
-['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+'Pregnancies'
+'Glucose'
+'BloodPressure'
+'SkinThickness'
+'Insulin'
+'BMI'
+'DiabetesPedigreeFunction'
+'Age'
+
+Given values of different features this algorithm aims to predict whether a person is suffering from diabetes or not.
